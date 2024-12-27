@@ -1,3 +1,4 @@
 pandas
 jpholiday
 requests
+streamlit
