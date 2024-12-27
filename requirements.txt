@@ -2,3 +2,4 @@ pandas
 jpholiday
 requests
 streamlit
+openpyxl
